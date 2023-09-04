@@ -1,3 +1,14 @@
+***************************************************************************************************************
+Exercise #05: Fix mispelled word. Find and fix a typo in 4Geeks documentation.
+
+
+
+By Nuno Rodrigues
+
+Mark received:
+Date: 
+Teacher:
+***************************************************************************************************************
 # Content
 
 ## Types of content:
